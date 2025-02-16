@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 // Wait for the user to click the Extract Data button
 document.getElementById("extractBtn").addEventListener("click", function () {
     // Get the input text from the textarea
